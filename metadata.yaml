@@ -1,0 +1,25 @@
+_repo: Denmark_20107
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, M. Pearson
+    gutenberg_agent_id: '9083'
+    url: http://www.gutenberg.org/2009/agents/9083
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2006-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Denmark -- Description and travel'
+title: Denmark
+url: http://www.gutenberg.org/ebooks/20107
